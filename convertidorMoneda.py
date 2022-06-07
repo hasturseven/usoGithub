@@ -10,6 +10,10 @@ else:
     pesosconver= round((dolares*4001),2)
     print(pesosconver)
 
+print("agregando unos cmabios en master para poder ver el merge")
+
 print('agragando unas cosas para ver los cambios')
 print('en el momento de cambiar unas cosas en la otra rama')
 
+
+print('generando un oroblema de conflicto')
