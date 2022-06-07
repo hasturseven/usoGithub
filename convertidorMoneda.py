@@ -1,5 +1,5 @@
 opcion = input("1)para convertir de pesos a dolares \n 2)para convertir de dolares a pesos")
-
+print('este cambio lo subire a github a partir del uso de las llaves public y privados o mejor dicho usando el SSH')
 if opcion=='1':
     pesos = float(input("cuantos pesos colombianos desea transformar"))
     endoalres=0
