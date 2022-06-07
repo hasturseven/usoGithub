@@ -16,6 +16,4 @@ print('agragando unas cosas para ver los cambios')
 print('en el momento de cambiar unas cosas en la otra rama')
 
 
-
-
-print('generando un oroblema de conflicto')
+print('generando un parrafo')
