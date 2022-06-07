@@ -14,3 +14,6 @@ print('agragando unas cosas para ver los cambios')
 print('en el momento de cambiar unas cosas en la otra rama')
 
 print('agregand una cabecera para ver los cmabios en la rama')
+
+
+print("agregando un par de caambios desde la rama cabecera para poder verlos en la rama maste al ahcer un marge")
