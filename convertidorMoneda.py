@@ -10,7 +10,7 @@ else:
     pesosconver= round((dolares*4001),2)
     print(pesosconver)
 
-print("agregando unos cmabios en master para poder ver el merge")
+print("agregando unos cambios para poder hacer un pull request el cual solo se puede hacer desde github")
 
 print('agragando unas cosas para ver los cambios')
 print('en el momento de cambiar unas cosas en la otra rama')
